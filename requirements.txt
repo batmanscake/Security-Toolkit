@@ -1,0 +1,5 @@
+# Security Toolkit - Password Generator
+# Python 3.13.1
+# Используются стандартные библиотеки
+# - tkinter
+# - random
