@@ -15,4 +15,4 @@
 ```bash
 git clone https://github.com/batmanscake/security-toolkit.git
 cd security-toolkit
-python sectirytoolkit.py
+python securitytoolkit.py
